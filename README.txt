@@ -10,3 +10,4 @@ five-my brabch
 
 
 난 바보
+ 너도 바보
